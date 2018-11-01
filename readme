@@ -1,0 +1,11 @@
+1. For running the python scripts, I have used python2.7.
+
+2. The command line for running the scripts is
+   python2.7 script.py --image  directory/image
+
+3. For running the detector_flare.py, the image file small.jpg
+as test image required for the template macth algorithm.
+
+4. The required packages are OPEN CV3, numpy, argparse and imutils.
+
+pip install imutils
